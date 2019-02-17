@@ -5,7 +5,7 @@ Date created: 17/02/2019
 Udacity Git Student Project
 
 ### Description
-Describe what your project is about and what it does
+This is a student project for the Programming for Data Science- GIT module. Object for this project is to gain hands-on experience for creating repositories and adding/modifying files using git & GitHub
 
 ### Files used
 Include the files used
