@@ -18,4 +18,9 @@ This is a student project for the Programming for Data Science- GIT module. Obje
   * washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+1. *Udacity*
+
+2. *https://git-scm.com/*
+
+  
