@@ -2,7 +2,7 @@
 Date created: 17/02/2019
 
 ### Project Title
-Replace the Project Title
+Udacity Git Student Project
 
 ### Description
 Describe what your project is about and what it does
