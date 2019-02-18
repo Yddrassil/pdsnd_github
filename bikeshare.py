@@ -158,7 +158,11 @@ def user_stats(df):
     print('-'*40)
 
 def show_data(df):
-     """Asks user to display 5 rows of raw data."""
+     """
+     Asks user to display 5 rows of raw data then continues to ask more until user choices No
+
+     """
+     
      choice= input('Would you like to see the raw data? ').lower()
      if choice=='yes' or choice=='y':
         i=0
